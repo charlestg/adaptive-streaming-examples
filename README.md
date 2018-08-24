@@ -23,7 +23,7 @@ This sample video will be used throughout the examples
 
 ```
 cd /var/tmp/
-curl -o test.mp4 https://www.sample-videos.com/video/mp4/720/test.mp4
+curl -o test.mp4 https://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_30mb.mp4
 ```
 
 ## Clone the project Example
