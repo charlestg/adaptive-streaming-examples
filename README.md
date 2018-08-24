@@ -29,7 +29,7 @@ curl -o test.mp4 https://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p
 ## Clone the project Example
 
 ```
-git clone https://github.com/charlestg/shaka-packager-examples.git
+git clone https://github.com/charlestg/adaptive-streaming-examples.git
 cd shaka-packager-examples
 
 ```
